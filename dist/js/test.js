@@ -5,5 +5,4 @@
  * http://github.com/cferdinandi/kraken
  */
 
-// Add your scripts here...
 error
